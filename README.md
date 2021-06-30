@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Swapna!
 
-🔭 I’m currently getting trained in Web based Full Stack Software Development
+👩‍💻 I’m currently getting trained in Web based Full Stack Software Development
+🔭 I’m currently working on Stickynote project
+🌱 I’m currently learning building Apps
+
 
 <!--
 **SPchalil/SPchalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
