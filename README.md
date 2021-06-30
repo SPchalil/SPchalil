@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Swapna!
 
-👩‍💻 I’m currently getting trained in Web based Full Stack Software Development
+👩‍💻 I’m currently getting trained in Web based Full Stack Software Development \b
 🔭 I’m currently working on Stickynote project
 🌱 I’m currently learning building Apps
 
