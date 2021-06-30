@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Swapna!
+### Hi there 👋 I'm Swapna!👩
 
 👩‍💻 I’m currently getting trained in Web based Full Stack Software Development 
 
