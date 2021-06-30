@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Stickynote project
 
-🌱 I’m currently learning building Apps
+🌱 I’m currently learning frontend/backend/building Apps
 
 
 <!--
