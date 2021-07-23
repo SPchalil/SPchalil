@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning frontend/backend/building Apps
 
-📫 How to reach me: https://github.com/SPchalil
+📫 How to reach me: swapna.p4@gmail.com
 
 😄 Pronouns: She/Her
 
