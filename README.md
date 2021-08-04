@@ -2,9 +2,9 @@
 
 👩‍💻 I’m currently getting trained in Web based Full Stack Software Development 
 
-🔭 I’m currently working on Stickynotes project
+🔭 I’m currently working on Stickynotes project (React-Node) 
 
-🌱 I’m currently learning frontend/backend, building Web Apps
+🌱 I’m currently learning frontend/backend, building Web Apps 
 
 📫 How to reach me: swapna.p4@gmail.com
 
