@@ -2,7 +2,7 @@
 
 👩‍💻 I’m currently getting trained in Web based Full Stack Software Development 
 
-🔭 I’m currently working on Stickynotes project (React-Node) 
+🔭 I’m currently working on Stickynotes project (React-Node) / Php-Laravel project 
 
 🌱 I’m currently learning frontend/backend, building Web Apps/ SPA
 
