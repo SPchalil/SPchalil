@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Swapna The Coder!👩
 
-👩‍💻 I’m currently getting trained in Web based Full Stack Software Development 
+👩‍💻 I’m a junior software developer getting trained in Web based Full Stack Software Development 
 
 🔭 I’m currently working on Stickynotes project (React-Node-MySQL) / Php/Laravel project 
 
