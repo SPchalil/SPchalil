@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Web based Full Stack Software Development
 
-🌱 I’m currently learning frontend/backend, building Web Apps/ SPA
+🌱 I’m currently doing/learning frontend & backend, building Web Apps/ SPA
 
 📫 How to reach me: swapna.p4@gmail.com
 
