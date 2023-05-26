@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Swapna The Coder!👩
 
-👩‍💻 I’m a Software Developer with an engineering background in Electrical and Computer engineering
+👩‍💻 I’m a Software Developer with an background in Electrical and Computer engineering
 
 🔭 I’m currently working on Web based Full Stack Software Development
 
