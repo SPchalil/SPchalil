@@ -2,7 +2,7 @@
 
 👩‍💻 I’m a Software Developer with an background in Electrical and Computer engineering
 
-🔭 I’m currently working on Web based Full Stack Software Development
+🔭 I’m currently working on Web applications
 
 🌱 I’m currently doing/learning frontend & backend, building Web Apps/ SPA
 
